@@ -2,7 +2,7 @@
 
 **Wartactic** es una interfaz gráfica táctica para dispositivos Android desarrollada con **Jetpack Compose** (Material3) y arquitectura declarativa pura (100% Kotlin, sin XML Layouts).
 
-🎨 **Prototipo de Diseño:** [Ver maquetación en Figma](https://www.figma.com/design/CC41y54nkv44lZpUogsTkY/maquetado-juego?node-id=0-1&t=GoGvc6yV3OFM9dw3-1)
+🎨 **Prototipo de Diseño:** <a href="https://www.figma.com/design/CC41y54nkv44lZpUogsTkY/maquetado-juego?node-id=0-1&t=GoGvc6yV3OFM9dw3-1" target="_blank" rel="noopener noreferrer">Ver maquetación en Figma</a>
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 🎨 Diseño y Prototipado
 El diseño visual del juego, la paleta cromática táctica y los activos vectoriales se maquetaron originalmente en Figma:
-👉 [Acceder al tablero de Figma](https://www.figma.com/design/CC41y54nkv44lZpUogsTkY/maquetado-juego?node-id=0-1&t=GoGvc6yV3OFM9dw3-1)
+👉 <a href="https://www.figma.com/design/CC41y54nkv44lZpUogsTkY/maquetado-juego?node-id=0-1&t=GoGvc6yV3OFM9dw3-1" target="_blank" rel="noopener noreferrer">Acceder al tablero de Figma</a>
 
 ## 🛠️ Tecnologías utilizadas
 * **Lenguaje:** Kotlin
